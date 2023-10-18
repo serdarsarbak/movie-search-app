@@ -1,21 +1,8 @@
-# coa71433ba897d4ad29c1520b
+This is the movie search app for Scrimba JavaScript course. I used HTML, CSS and JavaScript.
+Link for the app: https://imaginative-sable-00a668.netlify.app
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+![Ekran Resmi 2023-10-18 00 01 47](https://github.com/serdarsarbak/movie-search-app/assets/101435751/d18b2822-f76b-410e-b36a-f6764bb5bb82)
+![Ekran Resmi 2023-10-18 00 02 04](https://github.com/serdarsarbak/movie-search-app/assets/101435751/0bb2edf5-40ec-4364-8188-9658b09d187d)
+![Ekran Resmi 2023-10-18 00 02 24](https://github.com/serdarsarbak/movie-search-app/assets/101435751/a847a69d-2f07-4627-9ac1-2a23eb0841f0)

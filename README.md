@@ -1,5 +1,5 @@
 This is the movie search app for Scrimba JavaScript course. I used HTML, CSS and JavaScript.
-Link for the app: https://imaginative-sable-00a668.netlify.app
+Demo: https://imaginative-sable-00a668.netlify.app
 
 
 
